@@ -1,0 +1,2 @@
+# contingency
+All possibilities
